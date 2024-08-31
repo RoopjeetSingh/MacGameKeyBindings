@@ -1,0 +1,78 @@
+{
+    "among us": {
+        "aswd": [
+            "Joystick",
+            "../images/joystick.png",
+            [
+                -1,
+                -1
+            ],
+            [
+                72,
+                70
+            ],
+            true,
+            0.7691162586212158
+        ],
+        "k": [
+            "Button",
+            "../images/kill_button.png",
+            [
+                -1,
+                -1
+            ],
+            [
+                82,
+                96
+            ],
+            true,
+            0.7833048462867737
+        ],
+        "v": [
+            "Button",
+            "../images/vent.png",
+            [
+                -1,
+                -1
+            ],
+            [
+                90,
+                100
+            ],
+            true,
+            0.5932185411453247
+        ],
+        "current game": false,
+        "b": [
+            "Button",
+            "/Users/roopjeetsingh/Downloads/Screenshot 2023-10-30 at 5.02.01 PM.png",
+            [
+                -1,
+                -1
+            ],
+            [
+                85,
+                56
+            ],
+            true,
+            0.6786032676696777
+        ]
+    },
+    "Stumble Guys": {
+        "current game": false,
+        "aswd": [
+            "Joystick",
+            "/Users/roopjeetsingh/Downloads/Screenshot 2024-01-18 at 5.30.07 PM.png",
+            [
+                -1,
+                -1
+            ],
+            [
+                -1,
+                -1
+            ],
+            true,
+            0.8
+        ]
+    }
+}
